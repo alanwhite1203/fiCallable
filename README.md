@@ -110,6 +110,10 @@ Payment Frequency	6
 Coupon	0.012		
 
 
-You can find more details at
-https://finpricing.com/faq.html
+References:
+
+https://finpricing.com/lib/EqConvertible.html
+
+https://bitbucket.org/cmrm11/ficallable/downloads/FiCallableBond-13.pdf
+
 
